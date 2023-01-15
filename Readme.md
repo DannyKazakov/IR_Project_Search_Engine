@@ -38,12 +38,12 @@ Our search engine supports 5 different requests, including:
 ## Evaluation
 We evaluated our engine using MAP@40. The results reached an average of 0.467 at the submission of the project.
 Retrieval time was 7.54 seconds on average.
-![img.png](img.png)
+![image](https://user-images.githubusercontent.com/81555212/212553996-ef65d409-3be8-40e5-b6f6-e4e3f767a097.png)
 
 ## References
 * Python packages - including pickle, json, nltk and flask.
 * Google storage, a link to our project bucket: https://console.cloud.google.com/storage/browser/320569650_bucket
-* Virtual machine external IP: http://34.66.225.79:8080 , can be activated and queried through /search?query=YOUR_QUERY ! Email us for activating the VM.
+* Virtual machine external IP: http://34.66.155.185:8080 , can be activated and queried through /search?query=YOUR_QUERY ! Email us for activating the VM.
 
 Daniel Kazakov: kazadan@post.bgu.ac.il 
 Itay Paikin: itaypai@post.bgu.ac.il
