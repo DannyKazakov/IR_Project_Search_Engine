@@ -31,6 +31,7 @@ Our search engine supports 5 different requests, including:
 
 * [GET] request, route: /search. Insert your query through the 'query' parameter.
 * [GET] request, route: /search_body. Insert your query through the 'query' parameter.
+* [GET] request, route: /search_title. Insert your query through the 'query' parameter.
 * [GET] request, route: /search_anchor. Insert your query through the 'query' parameter.
 * [POST] request, route: /get_pagerank. Insert wiki id's in the body of the request in a parameter named 'json'.
 * [POST] request, route: /get_pageview. Insert wiki id's in the body of the request in a parameter named 'json'.
