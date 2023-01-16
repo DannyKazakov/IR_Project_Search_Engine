@@ -8,7 +8,7 @@ The project ran during 2 days on the gcp (Google cloud) compute engine,
 and answered queries through 5 different URL's - retrieving pages from the entire english wikipedia corpus.
 
 ## Content
-Contains all the files needed to be in the computer engine instance in order to run the search engine withour fail.
+Contains all the files needed to be in the computer engine instance in order to run the search engine without fail.
 * data_reader.py - helper in order to read from the posting lists contained in the GCP bucket
 * engine_startup.py - downloads necessary files from the bucket in to the instance. indices, dictionaries
 * search_frontend.py - runs the Flask RESFul API and make the engine public for queries
