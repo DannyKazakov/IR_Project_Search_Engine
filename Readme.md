@@ -27,7 +27,7 @@ Through the engines end points, you can retrieve information using 5 different t
 * get_pagerank: retrive a specific wiki page rank.
 * get_pageview: retrive a specific wiki page amount of views.
 ## Endpoints
-Our search engine supports 5 different requests, including:
+Our search engine supports 6 different requests, including:
 
 * [GET] request, route: /search. Insert your query through the 'query' parameter.
 * [GET] request, route: /search_body. Insert your query through the 'query' parameter.
