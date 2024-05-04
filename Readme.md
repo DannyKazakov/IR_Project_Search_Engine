@@ -45,6 +45,6 @@ Retrieval time was 7.54 seconds on average.
 * Python packages - including pickle, json, nltk and flask.
 * Google storage, a link to our project bucket: https://console.cloud.google.com/storage/browser/320569650_bucket
 * Virtual machine external IP: http://34.66.155.185:8080 , can be activated and queried through /search?query=YOUR_QUERY ! Email us for activating the VM.
-
-Daniel Kazakov: kazadan@post.bgu.ac.il 
+## Contact 
+Daniel Kazakov: Dannyzakov@gmail.com 
 Itay Paikin: itaypai@post.bgu.ac.il
